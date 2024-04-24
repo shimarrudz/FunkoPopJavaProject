@@ -1,1 +1,1 @@
-Sprint Boot Chekpoint Project
+🧸 This repository is dedicated to my Java MVC Full Stack deployed on railway
